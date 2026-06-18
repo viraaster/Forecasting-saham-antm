@@ -5,5 +5,3 @@ joblib
 yfinance
 plotly
 tensorflow
-scikit-learn
-h5py
