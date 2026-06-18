@@ -4,4 +4,4 @@ numpy
 joblib
 yfinance
 plotly
-tensorflow
+tensorflow>=2.15.0,<2.17.0
